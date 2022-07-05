@@ -166,8 +166,7 @@ p {
 
 .foot {
     background-color: black;
-    background-size: cover;
-
+    width: 1450px;
     padding: 25px;
 }
 
