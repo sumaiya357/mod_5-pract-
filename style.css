@@ -1,0 +1,184 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.sec {
+    margin-left: 100px;
+}
+
+.orange {
+    color: orange;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-size: smaller;
+    color: gray;
+}
+
+.width {
+    width: 50%;
+}
+
+.width img {
+    width: 50%;
+    margin-left: 200px;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.link-button {
+    text-decoration: none;
+    color: aliceblue;
+
+    padding: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(orange, tomato);
+}
+
+.para-padd {
+    padding-bottom: 20px;
+}
+
+
+/* section 2*/
+
+.sec2 {
+
+    background-image: url(images/shapes/7.png);
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.sec2 img {
+    margin-left: 290px;
+    width: 165px;
+    padding-top: 20px;
+}
+
+.about {
+    padding-top: 50px;
+}
+
+.text-color {
+    color: gray;
+}
+
+.paragraph2 {
+    text-align: justify;
+    padding-right: 290px;
+}
+
+.sec-3 {
+    margin-top: 90px;
+}
+
+.div-sec-3 {
+    text-align: center;
+}
+
+.paragraph3 {
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+/*section 4*/
+.fouth-sec-div1 {
+    box-shadow: 10px 10px 42px rgb(173, 170, 170);
+    margin-left: 360px;
+    background-color: rgb(245, 247, 249);
+    border-radius: 20px;
+    margin-top: 40px;
+    width: 390px;
+}
+
+.sec-div-4 {
+    padding: 20px;
+}
+
+.sec-div-4 img {
+    width: 350px;
+
+    border-radius: 20px;
+    height: 230px;
+}
+
+
+
+.fouth-sec-div2 {
+    box-shadow: 10px 10px 42px rgb(173, 170, 170);
+    margin-left: 30px;
+    background-color: rgb(245, 247, 249);
+    border-radius: 20px;
+    margin-top: 40px;
+    width: 390px;
+}
+
+.sec-div-4-2 {
+    padding: 20px;
+}
+
+.sec-div-4-2 img {
+    width: 350px;
+    height: 230px;
+
+    border-radius: 20px;
+
+}
+
+/*section 5*/
+.sec-div-5 {
+    margin-left: 360px;
+    box-shadow: 10px 10px 42px rgb(173, 170, 170);
+    width: 810px;
+
+}
+
+.sec5 {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.d1 {
+    padding-left: 80px;
+}
+
+.d2 {
+    padding-left: 80px;
+}
+
+.d3 {
+    padding-left: 80px;
+}
+
+.inside-padd {
+    padding-left: 35px;
+}
+
+.foot {
+    background-color: black;
+    background-size: cover;
+    width: 100%;
+    padding: 25px;
+}
+
+.text {
+    text-align: center;
+}
+
+.f-h1 {
+    color: gray;
+}
+
+.foot-p {
+    color: aliceblue;
+}
